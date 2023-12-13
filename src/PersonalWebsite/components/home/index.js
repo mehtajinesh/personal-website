@@ -1,7 +1,10 @@
+import Contact from "../contact";
+import NavBar from "./navbar";
 const Home = () => {
   return (
     <div>
-      <div className="mt-4">Home</div>
+      <NavBar />
+      <Contact />
     </div>
   );
 };

@@ -1,0 +1,31 @@
+[
+    {
+        "id": "paper1",
+        "title": "HCA-DBSCAN: HyperCube Accelerated Density Based Spatial Clustering for Applications with Noise",
+        "abstract":"Density-based clustering has found numerous applications across various domains. The Density-Based Spatial Clustering of Applications with Noise (DBSCAN) algorithm is capable of finding clusters of varied shapes that are not linearly separable, at the same time it is not sensitive to outliers in the data. Combined with the fact that the number of clusters in the data are not required apriori makes DBSCAN really powerfully. Slower performance (O(n2)) limits its applications. In this work, we present a new clustering algorithm, the HyperCube Accelerated DBSCAN(HCA-DBSCAN) which uses a combination of distance-based aggregation by overlaying the data with customized grids. We use representative points to reduce the number of comparisons that need to be computed. Experimental results show that the proposed algorithm achieves a significant run time speedup of up to 58.27% when compared to other improvements that try to reduce the time complexity of the DBSCAN algorithm.",
+        "paper_link":"https://doi.org/10.48550/arXiv.1912.00323",
+        "conference_logo":"./resources/neurips.png",
+        "conference_name":"Conference on Neural Information Processing Systems",
+        "conference_link":"https://nips.cc/"
+    },
+
+    {
+        "id": "paper2",
+        "title": "Face Detection and Tagging Using Deep Learning",
+        "abstract": "With the social media boom in today's world, we see people constantly uploading photos of themselves along with their friends and family on various social media platforms such as Facebook, Instagram, Twitter, Google+, etc. What if they want to see all the photos in a categorized form such as photos with a particular person. In this paper, we extend the concept of Multiview Face Detection using Convolution Neural Networks (CNN) used by Farfade et al. by providing a tagging system for the detected faces. For the face detection, we use Deep Dense Face Detector, which uses a single model based on deep convolutional neural networks. All the detected faces are recognized using Local Binary Patterns Histograms (LBPH) method. Precision, recall, and F-measure are the parameters used to measure the performance of the algorithm. An accuracy of 85% is achieved for tagging the faces which are successfully detected.",
+        "paper_link": "https://ieeexplore.ieee.org/abstract/document/8452853",
+        "conference_logo": "./resources/ieee.png",
+        "conference_name": "International Conference on Computer, Communication, and Signal Processing",
+        "conference_link": "https://ieeexplore.ieee.org/xpl/conhome/8440008/proceeding"
+    },
+
+    {
+        "id": "paper3",
+        "title": "Pothole Detection and Analysis System (PoDAS) for real time data using sensor networks",
+        "abstract": "Potholes are a major nuisance on city roads, leading to several problems and losses in productivity. Local authorities have cited a lack of geographic localization of these potholes as a rate-limiting factor for repairs. This study proposes a novel low-cost wireless sensors-based end-to-end system called PoDAS (Pothole Detection and Analysis System), which can be deployed across major cities. We discuss multiple implementation models that can be varied based on the needs of individual cities. Our system uses cross-validation through multiple sensors to achieve a higher efficiency than some of the previous models that have been proposed. We also present the results from extensive testing carried out in different environments to ascertain both the efficacy and the efficiency of the proposed system.",
+        "paper_link": "https://makhillpublications.co/files/published-articles/mak-jeas/2017/3090-3097.pdf",
+        "conference_logo": "./resources/ires.png",
+        "conference_name": "Journal Of Engineering And Applied Sciences",
+        "conference_link": "https://makhillpublications.co/journal-detail.php?issn=1816-949x"
+    }
+]

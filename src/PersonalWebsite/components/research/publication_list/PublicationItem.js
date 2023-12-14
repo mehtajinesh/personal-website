@@ -1,8 +1,8 @@
 const PublicationItem = ({ publication = {} }) => {
   return (
-    <div className="card m-4 p-4">
+    <div className="card m-4 p-3">
       <div className="row">
-        <div className="col-md-2 flex-column">
+        <div className="col-md-2 flex-column text-center">
           <img
             className="img-fluid rounded"
             src={publication.conference_logo}

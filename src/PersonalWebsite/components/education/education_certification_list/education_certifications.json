@@ -1,0 +1,87 @@
+[
+  {
+    "id": "education1",
+    "university_name": "Northeastern University - Boston",
+    "degree_name": "Masters of Science in Computer Science",
+    "top_areas": [
+      "Natural Language Processing",
+      "Computer Vision and Pattern Recognition",
+      "Reinforcement Learning",
+      "Deep Learning",
+      "Algorithms",
+      "Distributed Systems"
+    ],
+    "all_skills": [
+      ["Python", "C++", "Java", "JavaScript", "HTML", "CSS", "SQL", "MongoDB"],
+      [
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "OpenCV",
+        "NLTK",
+        "SpaCy",
+        "Scikit-Learn",
+        "Pandas",
+        "Numpy",
+        "Matplotlib",
+        "Seaborn",
+        "Plotly"
+      ],
+      [
+        "Node.js",
+        "Express.js",
+        "React.js",
+        "Django",
+        "Spring Boot",
+        "Hibernate",
+        "REST",
+        "GraphQL"
+      ],
+      [
+        "Git",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins",
+        "Postman",
+        "Jupyter",
+        "Eclipse",
+        "IntelliJ",
+        "VS Code"
+      ]
+    ],
+    "university_logo": "./resources/neu.png",
+    "gpa": "3.92 / 4.0"
+  },
+
+  {
+    "id": "education2",
+    "university_name": "Manipal University - Manipal",
+    "degree_name": "Bachelors of Technology in Computer Science",
+    "top_areas": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Information Retreival",
+      "Data Mining",
+      "Design Patterns",
+      "Cloud Computing"
+    ],
+    "all_skills": [
+      ["Python", "C++", "Java", "JavaScript", "HTML", "CSS", "SQL", "Oracle"],
+      [
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "OpenCV",
+        "Scikit-Learn",
+        "Pandas",
+        "Numpy",
+        "Matplotlib"
+      ],
+      ["React.js", "Django", "Spring Boot", "REST"],
+      ["Git", "Docker", "Postman", "Jupyter", "IntelliJ", "VS Code"]
+    ],
+    "university_logo": "./resources/mit.png",
+    "gpa": "8.4 / 10.0"
+  }
+]

@@ -8,8 +8,11 @@
       "Computer Vision and Pattern Recognition",
       "Reinforcement Learning",
       "Deep Learning",
+      "Advanced Machine Learning",
+      "Distributed Systems",
       "Algorithms",
-      "Distributed Systems"
+      "Web Development",
+      "Software Vulnerabilities"
     ],
     "all_skills": [
       ["Python", "C++", "Java", "JavaScript", "HTML", "CSS", "SQL", "MongoDB"],
@@ -64,7 +67,9 @@
       "Information Retreival",
       "Data Mining",
       "Design Patterns",
-      "Cloud Computing"
+      "Cloud Computing",
+      "Data Structures and Algorithms",
+      "Database Management Systems"
     ],
     "all_skills": [
       ["Python", "C++", "Java", "JavaScript", "HTML", "CSS", "SQL", "Oracle"],

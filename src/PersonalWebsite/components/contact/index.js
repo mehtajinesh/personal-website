@@ -7,7 +7,7 @@ const Contact = () => {
           <div class="display-6 fw-bold text-center mb-4">
             Did I grab your attention? Let's Chat!
           </div>
-          <div class="fs-5 text-center mb-4">
+          <div class="fs-5 text-center mx-4 mb-4">
             Hello there! I'm thrilled that you're reaching out. Whether you have
             inquiries, collaboration ideas, or just want to chat, this is the
             place to do it. Fill out the form below, and let's start the
@@ -16,7 +16,7 @@ const Contact = () => {
           </div>
         </div>
       </div>
-      <div class="row g-4 my-1">
+      <div class="row g-4 mx-4 my-1">
         <div class="col-md">
           <div class="form-floating">
             <input
@@ -42,7 +42,7 @@ const Contact = () => {
           </div>
         </div>
       </div>
-      <div class="row g-4 my-1">
+      <div class="row g-4 mx-4 my-1">
         <div class="col-md">
           <div class="form-floating">
             <input
@@ -69,7 +69,7 @@ const Contact = () => {
           </div>
         </div>
       </div>
-      <div class="row g-4 my-1">
+      <div class="row g-4 mx-4 my-1">
         <div class="col-md">
           <div class="form-floating">
             <textarea
@@ -81,7 +81,7 @@ const Contact = () => {
           </div>
         </div>
       </div>
-      <div class="row g-4 my-1">
+      <div class="row g-4 mx-4 my-1">
         <div class="col-md text-center">
           <button class="btn btn-dark" type="submit">
             Submit

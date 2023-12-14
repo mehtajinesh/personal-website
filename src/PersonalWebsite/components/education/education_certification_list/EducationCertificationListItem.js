@@ -18,10 +18,7 @@ const EducationCertificationItem = ({ education_certificate = {} }) => {
           </div>
           <div className="fs-5 mb-1">{education_certificate.degree_name}</div>
           <div className="d-flex">
-            <label class="fs-6 col-sm-2 col-form-label">
-              Relevant Courses:
-            </label>
-            <div class=" col-sm-10" id="top_areas">
+            <div class=" col-sm" id="top_areas">
               {education_certificate.top_areas.map((top_area) => {
                 return (
                   <button

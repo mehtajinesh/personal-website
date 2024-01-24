@@ -1,0 +1,50 @@
+[
+  {
+    "id": "experience0",
+    "company_name": "Northeastern University",
+    "job_title": "Machine Learning Research Assistant",
+    "duration": "Aug 2023 - Present",
+    "relevant_skills": [],
+    "company_logo": "./resources/neu.png",
+    "reviews": []
+  },
+  {
+    "id": "experience1",
+    "company_name": "Schneider Electric",
+    "job_title": "Machine Learning Software Engineer",
+    "duration": "July 2022 - December 2022",
+    "relevant_skills": [],
+    "company_logo": "./resources/se.png",
+    "reviews": []
+  },
+
+  {
+    "id": "experience2",
+    "company_name": "Honeywell International Inc.",
+    "job_title": "Senior Software Engineer - Machine Learning",
+    "duration": "October 2019 - July 2021",
+    "relevant_skills": [],
+    "company_logo": "./resources/honeywell.png",
+    "reviews": []
+  },
+
+  {
+    "id": "experience3",
+    "company_name": "Honeywell International Inc.",
+    "job_title": "Software Engineer - Machine Learning",
+    "duration": "July 2017 - September 2019",
+    "relevant_skills": [],
+    "company_logo": "./resources/honeywell.png",
+    "reviews": []
+  },
+
+  {
+    "id": "experience4",
+    "company_name": "Centre of Artificial and Machine Intelligence (CAMI)",
+    "job_title": "Software Engineer - Machine Learning",
+    "duration": "June 2016 - June 2017",
+    "relevant_skills": [],
+    "company_logo": "./resources/mit.png",
+    "reviews": []
+  }
+]
